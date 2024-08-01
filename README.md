@@ -8,7 +8,7 @@
             print(f'{self.gamertag} is playing {self.game}.')
 
 >>> gamer: Gamer = Gamer('Meda2dAsada', 'Rainbow Six Siege')
->>> gamer.introduce_gamer()
+>>> gamer.present_gamer()
 Meda2dAsada is playing Rainbow Six Siege.
 ```
 <!---
