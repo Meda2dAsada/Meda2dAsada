@@ -10,7 +10,6 @@
 >>> gamer: Gamer = Gamer('Meda2dAsada', 'Rainbow Six Siege')
 >>> gamer.present_gamer()
 Meda2dAsada is playing Rainbow Six Siege.
->>>
 ```
 <!---
 Meda2dAsada/Meda2dAsada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
